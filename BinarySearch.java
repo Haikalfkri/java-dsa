@@ -1,3 +1,5 @@
+// Binary Search O(log n)
+
 public class BinarySearch
 {
     public static void main(String[] args)
